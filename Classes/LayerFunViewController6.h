@@ -17,6 +17,11 @@
 #define INITIAL_TILT        0.0
 
 
+//
+// Some say that we shouldn't use properties save to expose state items of an instance of a class...c'est la vive.
+//
+
+
 @interface LayerFunViewController6 : UIViewController <AVCaptureVideoDataOutputSampleBufferDelegate, UIGestureRecognizerDelegate>
 {
 	// LayerFun UI Controls
@@ -120,9 +125,4 @@
 
 
 @end
-
-
-//
-// Some say that we shouldn't use properties save to expose state items of an instance of a class...c'est la vive.
-//
 
