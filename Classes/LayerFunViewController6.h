@@ -120,3 +120,9 @@
 
 
 @end
+
+
+//
+// Some say that we shouldn't use properties save to expose state items of an instance of a class...c'est la vive.
+//
+
