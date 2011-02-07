@@ -39,7 +39,7 @@
 	AVCaptureSession		*capturedSession;
 	
 	BOOL					scanning;
-	
+	// Views
 	UIView					*captureView;
 	UIImageView				*captureImageView;
 	UIView					*overlayView;
