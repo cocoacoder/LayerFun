@@ -44,7 +44,7 @@
 	UIImageView				*captureImageView;
 	UIView					*overlayView;
 	UIImageView				*scannedImage;
-	
+	// Buttons
 	UIButton				*scanButton;
 	UIButton				*cameraButton;
 	
